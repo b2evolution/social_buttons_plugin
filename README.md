@@ -13,4 +13,4 @@ Enjoy. That's it, really. Than play with the settings.</p>
 Support forum: http://forums.b2evolution.net/viewtopic.php?p=108879
 Refer to: http://developers.facebook.com/docs/reference/plugins/like/, http://twitter.com/about/resources/tweetbutton, http://www.google.com/webmasters/+1/button/ for more information.
 
-Author: Emin Özlem aka tilqicom on (b2evolution forums)[http://forums.b2evolution.net/]: admin@tilqi.com (personal works)[http://www.eodepo.com] || (My QuoteDb)[http://www.tilqi.com "Özlü Sözler, Güzel sözler || (Düğün Davetiyeleri)[http://www.ekodavetiye.com "Düğün Davetiyeleri, Davetiye, Davetiye fiyatları, Davetiye 2011 2012, İzmir Davetiye"]
+Author: Emin Özlem aka tilqicom on [b2evolution forums](http://forums.b2evolution.net/): admin@tilqi.com [personal works](http://www.eodepo.com) || [My QuoteDb](http://www.tilqi.com "Özlü Sözler, Güzel sözler") || [Düğün Davetiyeleri](http://www.ekodavetiye.com "Düğün Davetiyeleri, Davetiye, Davetiye fiyatları, Davetiye 2011 2012, İzmir Davetiye")
